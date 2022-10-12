@@ -56,10 +56,8 @@ function viewOceon(floors) {
         }          
             if (highest == true) {
                 index.push(i)
-            }
-      
-    } 
-  
+            }      
+    }   
     return index
 }
 
