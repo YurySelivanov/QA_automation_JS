@@ -39,7 +39,6 @@ console.log(greet('Yury'))
 // For example: input heights = [4, 2, 3, 1] Ocean
                 //output: [0, 2, 3]
 
-
 function viewOceon(floors) {
 
     let index = []
